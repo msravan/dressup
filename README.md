@@ -8,14 +8,14 @@ Inputs:
 •	COLD
 2.	Comma separated list of numeric commands
 Command	Description	Hot Response	Cold Response
-1	Put on footwear	“sandals”	“boots”
-2	Put on headwear	“sunglasses”	“hat”
-3	Put on socks	fail	“socks”
-4	Put on shirt	“shirt”	“shirt”
-5	Put on jacket	fail	“jacket”
-6	Put on pants	“shorts”	“pants”
-7	Leave house	“leaving house”	“leaving house”
-8	Take off pajamas	“Removing PJs”	“Removing PJs”
+1.	Put on footwear	“sandals”	“boots”
+2.	Put on headwear	“sunglasses”	“hat”
+3.	Put on socks	fail	“socks”
+4.	Put on shirt	“shirt”	“shirt”
+5.	Put on jacket	fail	“jacket”
+6.	Put on pants	“shorts”	“pants”
+7.	Leave house	“leaving house”	“leaving house”
+8.	Take off pajamas	“Removing PJs”	“Removing PJs”
 
 Rules:
 
