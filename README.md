@@ -31,13 +31,14 @@ Rules:
 (except socks and a jacket when it’s hot)
 •	If an invalid command is issued, respond with “fail” and stop processing commands
  
-Examples
-Success
+#Examples
+Success:
 Input: HOT 8, 6, 4, 2, 1, 7
 Output: Removing PJs, shorts, shirt, sunglasses, sandals, leaving house
 Input: COLD 8, 6, 3, 4, 2, 5, 1, 7
 Output: Removing PJs, pants, socks, shirt, hat, jacket, boots, leaving house
-Failure
+
+Failure:
 Input: 	HOT 8, 6, 6
 Output: 	Removing PJs, shorts, fail
 Input: 	HOT 8, 6, 3
